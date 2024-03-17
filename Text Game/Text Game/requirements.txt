@@ -1,0 +1,7 @@
+------------
+CHECKLIST
+------------
+[X] Create intro text that only appears for a new user
+[X] Change Sleep() for something user-controlled
+[] Fix any noticable bugs via playtesting
+	[X] Not using item properly bug
